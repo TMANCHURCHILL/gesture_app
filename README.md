@@ -1,16 +1,9 @@
-# gesture_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Gesture-Controlled Interface
+Instructions:
+Create a Gesture-Enabled App:
+Use Flutter widgets such as buttons and/or GestureDetector to implement at least two different gesture interactions (e.g., tap, long press, swipe).
+Each gesture should trigger a clear and observable behavior, such as changing text, updating colors, displaying a message, or performing a simple action.
+Test and Refine:
+Run your app on an emulator or physical device.
+Verify that each gesture responds correctly and consistently.
+Make at least one refinement based on testing (e.g., improving responsiveness, adjusting feedback, or simplifying the interaction).
